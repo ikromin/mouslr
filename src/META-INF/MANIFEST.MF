@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jnativehook-2.0.2.jar
+Main-Class: net.igorkromin.mouslr.Capture
+
