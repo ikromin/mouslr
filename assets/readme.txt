@@ -1,0 +1,1 @@
+https://openclipart.org/download/181665/1375915210.svg
