@@ -1,4 +1,4 @@
-# Mouslr v0.1
+# Mouslr v0.2
 
 Mouse Tracking Pixel Art! (http://mouslr.kr0m.in)
 
